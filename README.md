@@ -1,5 +1,7 @@
 # TFMini
-An Arduino driver for the Benewake TFMini time-of-flight distance sensor
+An Arduino driver for the Benewake TFMini time-of-flight distance sensor.
+
+**I forked this from the original library so that I could upload a public version to particle.io under the name TFMini-Public**
 
 # Open Source
 
@@ -7,7 +9,6 @@ This project is open source and released into the public domain.
 
 # Disclaimer
 
-**I forked this from the original library so that I could upload a public version to Particle**
 
 **DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY.**
 
